@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.6.4",
         "illuminate/database": ">=5.2",
-        "league/csv": ">=8.2"
+        "league/csv": "8.*"
     },
 
     "require-dev": {
